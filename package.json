@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "dependencies": {
+    "uid": "^2.0.1"
+  }
+}
